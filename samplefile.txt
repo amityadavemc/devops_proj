@@ -1,3 +1,4 @@
 this is a test file for git
 jencys changes
 new line added by Amit
+one more line added by amit from git gui
